@@ -1,0 +1,21 @@
+cd archive
+ grep "Сумма" 2022/buhgalteriya/schet_0001.txt
+ grep -r "Earl Grey" .
+ grep -r "earl grey" .
+ grep -r -i "earl grey" /
+ grep -r -i "earl grey" .
+ grep -r -l "Earl Grey" .
+ grep -ri "hint-1"
+  grep -r "kladovshik"
+  grep -r "kladovshik."
+  grep -r "подсказка" .
+  grep -r "kladovshik" .
+  grep -r "словом" .
+  grep -r "со" .
+  grep -r "рядом" .
+  grep -i "слово" /2024/kadry/dogovor_0012.txt:3
+  grep -r "лежит" .
+  grep -i "слово" 2025/buhgalteriya/otchet_0015.txt
+  grep -i "слово" 2025/buhgalteriya/otchet_0015.txt
+  grep -i "code" 2025/buhgalteriya/otchet_0015.txt
+  echo "KARANDASH" > answer.txt
